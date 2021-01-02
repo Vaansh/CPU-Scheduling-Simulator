@@ -1,0 +1,14 @@
+Time Complexity: 
+	Big-O (O(n)): 
+		Unsorted Priority Queue: O(n^2)
+		Array List Based Heap Priority Queue: O(nlogn)
+	Big-Omega (Ω(n)): 
+		Unsorted Priority Queue: Ω(n^2)
+		Array List Based Heap Priority Queue: Ω(nlogn)
+
+Space Complexity:
+	Unsorted Priority Queue: O(n)
+	Array List Based Heap Priority Queue: O(n)
+Both use 1d arraylist.
+
+Heap priority queue is significantly faster.

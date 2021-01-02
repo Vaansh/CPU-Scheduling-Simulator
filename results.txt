@@ -1,0 +1,79 @@
+▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁
+░░░░░░░░░░░░░WELCOME TO CPU SCHEDULING░░░░░░░░░░░░░░
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+Checking for 100 numbers...
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Testing with unsorted priority queue...
+Current systemtime(cycles): 3260
+Total number of jobs executed: 100 jobs 
+Average process waiting time: 56464 cycles 
+Total number of priority changes: 3
+Actual system time needed to execute all jobs: 11.0ms
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+On to heap based arraylist...
+Current systemtime(cycles): 3367
+Total number of jobs executed: 100 jobs 
+Average process waiting time: 2131 cycles 
+Total number of priority changes: 3
+Actual system time needed to execute all jobs: 12.0ms
+;;;;;;;;;;;;;;;;;;; Round 1 Over ;;;;;;;;;;;;;;;;;;;
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+ 
+
+Checking for 1000 numbers...
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Testing with unsorted priority queue...
+Current systemtime(cycles): 36485
+Total number of jobs executed: 1000 jobs 
+Average process waiting time: 702590 cycles 
+Total number of priority changes: 33
+Actual system time needed to execute all jobs: 57.0ms
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+On to heap based arraylist...
+Current systemtime(cycles): 37456
+Total number of jobs executed: 1000 jobs 
+Average process waiting time: 24546 cycles 
+Total number of priority changes: 33
+Actual system time needed to execute all jobs: 16.0ms
+;;;;;;;;;;;;;;;;;;; Round 2 Over ;;;;;;;;;;;;;;;;;;;
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+ 
+
+Checking for 10000 numbers...
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Testing with unsorted priority queue...
+Current systemtime(cycles): 356172
+Total number of jobs executed: 10000 jobs 
+Average process waiting time: 6702201 cycles 
+Total number of priority changes: 333
+Actual system time needed to execute all jobs: 5670.0ms
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+On to heap based arraylist...
+Current systemtime(cycles): 366093
+Total number of jobs executed: 10000 jobs 
+Average process waiting time: 238924 cycles 
+Total number of priority changes: 332
+Actual system time needed to execute all jobs: 80.0ms
+;;;;;;;;;;;;;;;;;;; Round 3 Over ;;;;;;;;;;;;;;;;;;;
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+ 
+
+Checking for 100000 numbers...
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Testing with unsorted priority queue...
+Current systemtime(cycles): 3548397
+Total number of jobs executed: 100000 jobs 
+Average process waiting time: 66532095 cycles 
+Total number of priority changes: 3333
+Actual system time needed to execute all jobs: 1013154.0ms
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+On to heap based arraylist...
+Current systemtime(cycles): 3647975
+Total number of jobs executed: 100000 jobs 
+Average process waiting time: 2374306 cycles 
+Total number of priority changes: 3334
+Actual system time needed to execute all jobs: 1425.0ms
+;;;;;;;;;;;;;;;;;;; Round 4 Over ;;;;;;;;;;;;;;;;;;;
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+ 
